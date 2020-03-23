@@ -1,0 +1,36 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend do projeto da Semana OmniStack 11.0 - Be a hero",
+  "keywords": [
+    "omnistack",
+    "nodejs",
+    "react",
+    "reactnative",
+    "js",
+    "javascript",
+    "be a hero"
+  ],
+  "homepage": "https://github.com/weltonfelix/omnistack11#readme",
+  "author": {
+    "name": "Welton Felix",
+    "email": "contato.weltonf@gmail.com",
+    "url": "https://github.com/weltonfelix"
+  },
+  "bugs": {
+    "url": "https://github.com/weltonfelix/omnistack11/issues",
+    "email": "contato.weltonf@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weltonfelix/omnistack11.git"
+  }
+}
