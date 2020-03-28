@@ -5,20 +5,20 @@
 </h1>
 
 # Be The Hero
-Projeto realizado na Semana OmniStack 11.0
+Project carried out for Semana OmniStack 11.0
 
 
 <p align="center">
-  <img alt="Contador de linguagens do GitHub" src="https://img.shields.io/github/languages/count/weltonfelix/omnistack11?color=%2304D361">
+  <img alt="Github language counter" src="https://img.shields.io/github/languages/count/weltonfelix/omnistack11?color=%2304D361">
 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/weltonfelix/omnistack11">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/weltonfelix/omnistack11">
 	
   <a href="https://www.github.com/weltonfelix">
-    <img alt="Feito por Welton" src="https://img.shields.io/badge/Feito%20por-Welton-%2304D361">
+    <img alt="Made by Welton" src="https://img.shields.io/badge/Made%20by-Welton-%2304D361">
   </a>
 
   <a href="https://github.com/welton/omnistack11/commits/master">
-    <img alt="Último commit" src="https://img.shields.io/github/last-commit/weltonfelix/omnistack11">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/weltonfelix/omnistack11">
   </a>
 
   <a href="https://github.com/weltonfelix/omnistack11/issues">
@@ -27,7 +27,7 @@ Projeto realizado na Semana OmniStack 11.0
 <a aria-label="Completo">
     <img src="https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-  <img alt="Licença" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <h2 align='center'>
@@ -39,25 +39,44 @@ Projeto realizado na Semana OmniStack 11.0
 	<img title="Runs with expo" alt="Runs with expo" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000">
 </h2>
 
-## :notebook: Instruções
-  1. Para instalar as dependências necessárias, rode `npm` no terminal do back-end e do front-end.
-  2. Para instalar as dependências necessárias do mobile, rode `yarn` no terminal.
+## :notebook: Getting Started
+1. Clone this repository
+2. `cd backend`
+3. `npm install`
+4. `cd ../frontend`
+5. `npm install`
+6. `cd ../mobile`
+7. `yarn`
+8. `cd ..`
+9. To start backend
+   1. `cd backend`
+   2. `npm start`
+10. To start frontend
+    1. `cd frontend`
+    2 `npm start`
+11. To start mobile
+    1. `cd mobile`
+    2. `yarn start`
+12. Enjoy!
 
-## 🤝 Contribua
-Contribuições, issues e pedidos de novas features são bem-vindos!<br />Sinta-se livre para olhar a [página de issues](https://github.com/weltonfelix/omnistack11/issues).
-- Faça um fork;
-- Crie um branch com sua feature: `git checkout -b my-feature`;
-- Faça um commit das mudanças: `git commit -m 'feat: My new feature'`;
-- Faça um push para o seu branch: `git push origin my-feature`.
-- Faça um pull request.
+## 🤝 Contributing
 
-Após o seu pull request ser aprovado, você pode deletar o seu branch.
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/weltonfelix/omnistack11/issues).
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
 
-## :memo: Licença
+After merging your receipt request to done, you can delete a branch from yours.
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## :memo: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
 ---
 
-Made with ♥ by Welton Felix :wave:
-
+Made with ♥ by Welton Felix :wave: [Get in touch!](mailto:contato.weltonf@gmail.com)
