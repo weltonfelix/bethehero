@@ -35,9 +35,9 @@ Projeto realizado na Semana OmniStack 11.0
 </h2>      
 <h2 align='center'>
       <img title="Mobile" alt="mobile" src="./gif-mobile.gif" width="25%">
+	<br>
+	<img title="Runs with expo" alt="Runs with expo" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000">
 </h2>
-
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
 
 ## :notebook: Instruções
   1. Para instalar as dependências necessárias, rode `npm` no terminal do back-end e do front-end.
