@@ -1,8 +1,8 @@
-<a href="https://bethehero-frontend.netlify.com/">
-  <h1 align="center">
+<h1 align="center">
+  <a href="https://bethehero-frontend.netlify.com/">
     <img alt="BeTheHero" title="Acesse o site" src="./logo.svg" width="50%" />
-  </h1>
-</a>
+  </a>
+</h1>
 
 # Semana OmniStack 11.0
 
