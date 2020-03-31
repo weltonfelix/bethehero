@@ -1,6 +1,6 @@
 <h1 align="center">
   <a target="blank" href="https://bethehero-frontend.netlify.com/">
-    <img alt="BeTheHero" title="Acesse o site" src="./logo.svg" width="50%" />
+    <img alt="BeTheHero" title="Acesse o site" src="./logo.svg" width="30%" />
   </a>
 </h1>
 
