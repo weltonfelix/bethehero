@@ -5,8 +5,7 @@
 </h1>
 
 # Be The Hero
-Project carried out for Semana OmniStack 11.0
-
+Project carried out for Semana OmniStack 11.0 from @Rocketseat, taught by @diego3g.
 
 <p align="center">
   <img alt="Github language counter" src="https://img.shields.io/github/languages/count/weltonfelix/omnistack11?color=%2304D361">
